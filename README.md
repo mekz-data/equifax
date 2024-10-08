@@ -1,7 +1,7 @@
 # Equifax Credit Marketing Segmentation
-
-add equifax logo here
-
+<img src="https://raw.githubusercontent.com/mekz-data/equifax/refs/heads/main/images/Equifax-Logo-1200-1539180001188.webp">
+    
+    
 This is a brief description of a project that I worked on for Equifax. Unfortunately, due to signing an NDA, 
 I am limited on revealing some aspects of the project. This was an exciting opportunity to work with a big company
 on a real-world problem so I wanted to document it for posterity. 
@@ -12,9 +12,11 @@ on a real-world problem so I wanted to document it for posterity.
 - Increased focus was placed on whether or not the group contained first time homebuyers for future marketing purposes. 
 - Experiments were performed with various forms of dimensionality reduction and clustering. 
 - Big dataset consisted of ~2 million rows and ~600 columns.
-
-put diagram here
-
+     
+        
+<img src="https://github.com/mekz-data/equifax/blob/main/images/efx_process.png?raw=true">
+        
+       
 ## Code and Resources used:
 - Python 3.12.2
 - Google Cloud Platform (GCP) - BigQuery
@@ -32,5 +34,6 @@ put diagram here
 - Afterwards, clustering experiments were performed with k means and Gaussian mixture models. 
 
 ## Takeaways
-- When dealing with large datasets and computationally intensive processes, use the method that gets you 80% of the results at 20% of the cost. In this case, using LightGBM saved us so much time compared to other methods. 
+- When dealing with large datasets and computationally intensive processes, use the method that gets you 80% of the results at 20% of the cost. In this case, using LightGBM saved us so much time compared to other methods.
+- Domain knowledge is crucial in data science. My experience looking at credit reports as a loan officer proved to be invaluable throughout this process. 
 - Real world data is just as dirty as you've been told before. Knowing when to impute and when to just drop rows can be a difficult choice sometimes. 
