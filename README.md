@@ -3,8 +3,7 @@
     
     
 This is a brief description of a project that I worked on for Equifax. Unfortunately, due to signing an NDA, 
-I am limited on revealing some aspects of the project. This was an exciting opportunity to work with a big company
-on a real-world problem so I wanted to document it for posterity. 
+I am limited on revealing some aspects of the project. I enjoyed working on this project though so I wanted to document it for posterity. 
 
 ## Project Overview: 
 - The project's goal was to optimize credit marketing for Equifax's clients via enhanced targeting.
